@@ -10,11 +10,6 @@ body {
   animation: gradient 15s ease infinite;
 }
 
-body h1 {
-  display: flex;
-  justify-content: center;
-}
-
 .balloon {
   width: 100px;
   height: 200px;
